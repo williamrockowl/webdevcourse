@@ -8,7 +8,7 @@
 
 <h1>Welcome To MADLIBS</h1>
 
-<form action="madlibs.php" method="post" />
+<form action="" method="post" >
     First Name: <input type="text" name="first" /> </br>
     Last Name: <input type="text" name="last" /> </br>
     Noun: <input type="text" name="noun" /> </br>
