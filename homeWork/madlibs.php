@@ -3,6 +3,7 @@
     <head>
         <title>This is the PHP page</title>
         <link rel="stylesheet" href="madlibsCSS.CSS" type="text/css">
+</head>
 <body>
 
 <h1>Welcome To MADLIBS</h1>
