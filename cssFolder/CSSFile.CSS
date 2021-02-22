@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    background-color: white;
+    border:1px solid black;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    font-family:'Times New Roman', Times, serif
+}
+
+
+body {
+    background-color: gray ;
+    font-family: cursive;
+}
+p {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+
+h2 {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+    text-align: center;
+    display: block;
+}
+
+#Introduction {
+    color:black;
+}
+mark.red {
+    color:#ff0000;
+    background: none;
+}
+mark.blue {
+    color:#0000A0;
+    background: none;
+}
+mark.green {
+    color:#00FF00;
+    background: none;
+}
+mark.yellow {
+    color:#FFD700;
+    background: none;
+}
+mark.purple {
+    color:#FF00FF;
+    background: none;
+}
