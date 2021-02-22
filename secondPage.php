@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>This is the PHP page</title>
-        <link rel="stylesheet" href="madlibsCSS.CSS" type="text/css">
+        <link rel="stylesheet" href="homeWork/madlibsCSS.CSS" type="text/css">
 <body>
 
 <h1>Welcome To MADLIBS</h1>
