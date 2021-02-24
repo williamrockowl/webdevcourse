@@ -1,15 +1,15 @@
 h1 {
-    text-align: center;
+
     font-family: 'Times New Roman', Times, serif;
     color: black;
     background-color: grey;
-    border: 1px solid black;
+    margin-bottom: 0.5px;
 }
-
 ul {
-    display: table;
-    margin: 0 auto;
-    font-family: 'Times New Roman', Times, serif
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   list-style-type: square;
+
 }
 
 body {
@@ -18,24 +18,48 @@ body {
 }
 
 p {
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif
+    margin-top: 0.4em;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 2px;
+    font-size: 20px;
 }
 
 h2 {
     text-align: center;
 }
 
-table, th, td {
+h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+
+
+table, td {
     text-align: center;
     border: 2px solid black;
     border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgrey;
+    font-weight: lighter;
+}
+th {
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: grey;
+
 }
 
 table.center {
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
+    
 }
 
 a {
@@ -192,4 +216,27 @@ nav {
 
 .dropdown-about:hover .about-btn {
     background-color: gold;
+}
+
+hr{
+    margin-top: 2em;
+    margin-bottom: 1em;
+
+    }
+
+#Image{
+    float: left;
+    padding: 10px;
+}
+
+.nav-right{
+    float: right;
+}
+
+#ListOfJobs{
+    text-align: left;
+}
+
+.linkstosites{
+    text-align: left;
 }
