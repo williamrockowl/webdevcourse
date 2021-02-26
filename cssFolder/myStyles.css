@@ -1,15 +1,14 @@
 h1 {
-
     font-family: 'Times New Roman', Times, serif;
     color: black;
     background-color: grey;
     margin-bottom: 0.5px;
 }
-ul {
-   font-family: 'Times New Roman', Times, serif;
-   font-size: 20px;
-   list-style-type: square;
 
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    list-style-type: square;
 }
 
 body {
@@ -34,8 +33,6 @@ h3 {
     font-size: 32px;
 }
 
-
-
 table, td {
     text-align: center;
     border: 2px solid black;
@@ -45,6 +42,7 @@ table, td {
     background-color: darkgrey;
     font-weight: lighter;
 }
+
 th {
     text-align: center;
     border: 2px solid black;
@@ -52,14 +50,12 @@ th {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     background-color: grey;
-
 }
 
 table.center {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-    
 }
 
 a {
@@ -144,7 +140,6 @@ nav {
     font-weight: bold;
 }
 
-
 .links {
     display: inline-block;
 }
@@ -215,25 +210,24 @@ nav {
     background-color: gold;
 }
 
-hr{
+hr {
     margin-top: 2em;
     margin-bottom: 1em;
+}
 
-    }
-
-#Image{
+#Image {
     float: left;
     padding: 10px;
 }
 
-.nav-right{
+.nav-right {
     float: right;
 }
 
-#ListOfJobs{
+#ListOfJobs {
     text-align: left;
 }
 
-.linkstosites{
+.linkstosites {
     text-align: left;
 }
